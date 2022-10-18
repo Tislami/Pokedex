@@ -1,4 +1,4 @@
-package com.zeroone.pokedex.ui.theme
+package com.zeroone.pokedex.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
